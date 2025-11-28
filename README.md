@@ -1,2 +1,2 @@
-# CIS2023LnxProj
+# CIS2025LnxProj
 Linux Final Project – Bash script printing 1 to 50
